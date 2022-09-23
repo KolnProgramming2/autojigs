@@ -101,4 +101,3 @@ def main():
 if __name__ == '__main__':
     main()
     
-# C:/Users/User/Desktop/winnie_scripts/20220823_jig_test3.stl
